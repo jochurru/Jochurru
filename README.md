@@ -1,69 +1,65 @@
-# 👨‍💻 Jonatan – Desarrollador Full-Stack en formación | Apasionado por la nube y la IA generativa
+# 👨‍💻 Jonatan – Desarrollador Full-Stack en formación | Apasionado por Cloud & GenAI
 
-Hola, soy Jonatan, desarrollador en transición desde el mundo del comercio hacia la tecnología. Me estoy formando como **Full-Stack Developer** con foco en **React, Node.js y Google Cloud**, sumando experiencia real en proyectos para clientes y una fuerte base en programación, infraestructura y habilidades blandas.
+¡Hola! Soy Jonatan, estoy transitando mi evolución profesional desde el comercio hacia el mundo IT. Me formo como **Full-Stack Developer** con proyectos reales, aprendizaje constante y una identidad técnica auténtica.
 
 ---
 
-## 🚧 En formación activa
+## 🚧 Formación técnica
 
-🎯 **Full-Stack Developer**  
-- Front-End: HTML, CSS, JS, Bootstrap (✔️)  
-- React JS (🟡 cuatrimestre actual)  
-- Node JS (🟡 próximo cuatrimestre)  
-- Python (✔️ curso presencial)
+- ✔️ *Front-End*: HTML, CSS, JS, Bootstrap  
+- 🟡 *React JS*: en curso (cuatrimestre actual)  
+- 🟡 *Node JS*: a comenzar (próximo cuatrimestre)  
+- ✔️ *Python*: curso presencial  
+- 🟡 *Google Cloud & GenAI*: por comenzar, orientado a infraestructura y IA generativa
 
-☁️ **Trayecto Google Cloud & GenAI**  
-- Infraestructura escalable  
-- Cloud Functions & Vertex AI  
-- Inteligencia artificial generativa  
-*(En proceso, muy motivado por esta skill)*
+---
 
-💬 **Habilidades blandas – Gobierno de CABA**  
+## 💬 Habilidades blandas
+
+> "No solo programo. Escucho, colaboro, analizo y conecto ideas con soluciones."
+
 - Comunicación efectiva  
 - Trabajo en equipo  
-- Resolución de conflictos
+- Inteligencia emocional  
+*(Cursos realizados con el Gobierno de la Ciudad de Buenos Aires)*
 
 ---
 
-## 📁 Proyectos representativos
+## 📂 Proyectos destacados
 
-- [`servicejj`](https://github.com/jochurru/servicejj) – Proyecto real para cliente: DNS, SSL, branding web y metadata SEO.
-- [`ducknroll`](https://github.com/jochurru/ducknroll) – Sitio estático con Bootstrap, diseño responsivo.
-- [`python`](https://github.com/jochurru/python) – Ejercicios, lógica y exploración inicial en programación estructurada.
-
----
-
-## 🧠 Qué me define como profesional
-
-✔️ Resolutivo y metódico  
-✔️ En constante aprendizaje  
-✔️ Enfocado en resultados reales  
-✔️ Conectando código, branding y visión estratégica
-
-> “No solo aprendo a programar; construyo soluciones que funcionan, que escalan y que reflejan quién soy como profesional.”
+- [`servicejj`](https://github.com/jochurru/servicejj): Proyecto real para cliente. Delegación DNS, configuración SSL, branding profesional y metadata SEO.
+- [`ducknroll`](https://github.com/jochurru/ducknroll): Sitio web interactivo con Bootstrap, diseño responsivo y estructura clara.
+- [`python`](https://github.com/jochurru/python): Lógica de programación, estructuras de control, ejercicios prácticos.
 
 ---
 
-## 📫 Contacto
+## 🔧 Tecnologías en uso
 
-- 📄 [Currículum / Portfolio web](#) *(en desarrollo, pronto disponible)*
-- 🔗 [LinkedIn] ( https://www.linkedin.com/in/jonatan-churruarin-63b2732b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
-- 🖥️ [Perfil GitHub completo](https://github.com/jochurru)
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-gray?style=flat&logo=googlecloud)
 
 ---
 
+## 🌱 Próximos pasos
 
-<!--
-**jochurru/Jochurru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Terminar el trayecto de React y comenzar Node.js  
+- Iniciar el trayecto en Google Cloud & GenAI  
+- Documentar cada etapa en GitHub, LinkedIn y portfolio web  
+- Aplicar habilidades blandas en entornos colaborativos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Conectá conmigo
+
+- 🔗 [LinkedIn]( https://www.linkedin.com/in/jonatan-churruarin-63b2732b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) *(añadí el enlace si querés que lo incluya acá)*
+- 🌐 Portfolio web *(en desarrollo – )
+
+---
+
+> “Transformé mi trayectoria desde el comercio hacia la tecnología con propósito, pasión y visión estratégica. Cada proyecto que construyo no sólo resuelve: conecta con el mundo real.”
