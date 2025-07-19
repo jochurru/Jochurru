@@ -57,7 +57,7 @@
 
 ## 📫 Conectá conmigo
 
-- 🔗 [LinkedIn]( https://www.linkedin.com/in/jonatan-churruarin-63b2732b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) *(añadí el enlace si querés que lo incluya acá)*
+- 🔗 [LinkedIn]( https://www.linkedin.com/in/jonatan-churruarin-63b2732b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 - 🌐 Portfolio web *(en desarrollo – )
 
 ---
