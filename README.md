@@ -1,4 +1,4 @@
-# 👨‍💻 Jonatan – Desarrollador Full-Stack en formación | Apasionado por Cloud & GenAI
+# 👨‍💻 Jonatan – Desarrollador Full-Stack en formación | 
 
 ¡Hola! Soy Jonatan, estoy transitando mi evolución profesional desde el comercio hacia el mundo IT. Me formo como **Full-Stack Developer** con proyectos reales, aprendizaje constante y una identidad técnica auténtica.
 
