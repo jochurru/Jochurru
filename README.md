@@ -44,6 +44,9 @@
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-gray?style=flat&logo=googlecloud)
 ![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
