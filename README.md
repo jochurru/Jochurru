@@ -1,69 +1,125 @@
-# 👨‍💻 Jonatan – Desarrollador Full-Stack en formación | 
+# 👨‍💻 Jonatan Churruarín  
+### Full-Stack Developer | Data Engineer en camino
 
-¡Hola! Soy Jonatan, estoy transitando mi evolución profesional desde el comercio hacia el mundo IT. Me formo como **Full-Stack Developer** con proyectos reales, aprendizaje constante y una identidad técnica auténtica.
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![GoogleCloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ---
 
-## 🚧 Formación técnica
+## 🚀 Sobre mí
 
-- ✔️ *Front-End*: HTML, CSS, JS, Bootstrap  
-- 🟡 *React JS*
-- 🟡 *Node JS*:en curso (cuatrimestre actual)
-- ✔️ *Python*: curso presencial  
-- 🟡 *Google Cloud*
+Soy desarrollador con base sólida en Front-End moderno y experiencia en proyectos reales.
+
+Actualmente estoy expandiendo mi perfil hacia el mundo de los datos, integrando desarrollo, análisis y cloud.
+
 ---
 
-## 💬 Habilidades blandas
+## 🧠 Enfoque actual
 
-> "No solo programo. Escucho, colaboro, analizo y conecto ideas con soluciones."
+Evolucionando hacia:
 
-- Comunicación efectiva  
-- Trabajo en equipo  
-- Inteligencia emocional  
-*(Cursos realizados con el Gobierno de la Ciudad de Buenos Aires)*
+- Data Analytics  
+- Business Intelligence  
+- Machine Learning  
+
+Objetivo: convertirme en **Data Engineer**, combinando backend + datos + cloud.
+
+---
+
+## 🎓 Formación
+
+**Front-End Developer (certificado)**  
+- HTML, CSS, JavaScript  
+- React (hooks, routing, consumo de APIs, CRUD)  
+- Desarrollo de interfaces modernas y deploy  
+
+---
+
+## 📚 Formación en curso (Talento Tech)
+
+- Business Intelligence (BI)  
+- Data Analytics con Python  
+- Machine Learning  
+
+---
+
+## 🛠️ Stack tecnológico
+
+**Frontend**
+- HTML, CSS, JavaScript
+- Bootstrap, Tailwind CSS
+- React
+
+**Backend**
+- Node.js (en curso)
+- Express
+
+**Datos & Cloud**
+- Python
+- Firebase / Firestore
+- Google Cloud (en formación)
+- Cloudinary
 
 ---
 
 ## 📂 Proyectos destacados
 
-- [`servicejj`](https://github.com/jochurru/servicejj): Proyecto real para cliente. Delegación DNS, configuración SSL, branding profesional y metadata SEO.
-- [`ducknroll`](https://github.com/jochurru/ducknroll): Sitio web interactivo con Bootstrap, diseño responsivo y estructura clara.
-- [`python`](https://github.com/jochurru/python): Lógica de programación, estructuras de control, ejercicios prácticos.
+### 🔧 servicejj
+Proyecto real para cliente:
+- Configuración DNS y dominio  
+- Implementación SSL  
+- SEO técnico  
+- Desarrollo fullstack  
+
+### 👕 ducknroll
+Sitio web interactivo:
+- Diseño responsive  
+- Estructura clara y escalable  
+
+### 🐍 python
+Base en lógica de programación:
+- Estructuras de control  
+- Resolución de problemas  
 
 ---
 
-## 🔧 Tecnologías en uso
+## 💬 Habilidades
 
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-gray?style=flat&logo=googlecloud)
-![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+- Comunicación efectiva  
+- Trabajo en equipo  
+- Pensamiento analítico  
+- Inteligencia emocional  
 
 ---
 
-## 🌱 Próximos pasos
+## 📈 Próximos pasos
 
-- Terminar el trayecto de React y comenzar Node.js  
-- Iniciar el trayecto en Google Cloud & GenAI  
-- Documentar cada etapa en GitHub, LinkedIn y portfolio web  
-- Aplicar habilidades blandas en entornos colaborativos
-
----
-
-## 📫 Conectá conmigo
-
-- 🔗 [LinkedIn]( https://www.linkedin.com/in/jonatan-churruarin-63b2732b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-- 🌐 Portfolio web *(en desarrollo – )
+- Profundizar Node.js y backend  
+- Aprender SQL en profundidad  
+- Avanzar en Cloud (Azure / AWS)  
+- Construir proyectos con datos reales  
 
 ---
 
-> “Transformé mi trayectoria desde el comercio hacia la tecnología con propósito, pasión y visión estratégica. Cada proyecto que construyo no sólo resuelve: conecta con el mundo real.”
+## 🌐 Conectemos
+
+- LinkedIn  
+- Portfolio web (en desarrollo)  
+
+---
+
+## ⚡ Filosofía
+
+> “Pasé del comercio a la tecnología con una visión clara: construir soluciones reales.  
+> Hoy combino desarrollo web con datos para generar impacto en el mundo real.”
