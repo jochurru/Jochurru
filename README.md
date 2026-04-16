@@ -7,11 +7,10 @@
 ## 🚧 Formación técnica
 
 - ✔️ *Front-End*: HTML, CSS, JS, Bootstrap  
-- 🟡 *React JS*: en curso (cuatrimestre actual)  
-- 🟡 *Node JS*: a comenzar (próximo cuatrimestre)  
+- 🟡 *React JS*
+- 🟡 *Node JS*:en curso (cuatrimestre actual)
 - ✔️ *Python*: curso presencial  
-- 🟡 *Google Cloud & GenAI*: por comenzar, orientado a infraestructura y IA generativa
-
+- 🟡 *Google Cloud*
 ---
 
 ## 💬 Habilidades blandas
