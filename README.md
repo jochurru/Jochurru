@@ -43,6 +43,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-gray?style=flat&logo=googlecloud)
+![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
